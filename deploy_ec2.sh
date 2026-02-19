@@ -8,7 +8,7 @@ cat << 'EOF'
 3. SSH in and run:
 
 sudo apt update && sudo apt install -y python3.12 python3-pip git build-essential cmake
-git clone https://github.com/YOUR_USERNAME/grok-like-agent-python.git
+git clone https://github.com/Sarthak-GitHub/grok-like-agent0-in-python.git
 cd grok-like-agent-python
 pip install -r requirements.txt
 
